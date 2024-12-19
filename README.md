@@ -12,6 +12,6 @@ Welcome to my GitHub profile! I'm Sana Taghipour Anvari, a PhD student in Comput
 - **Domains**: Distributed computing, HPC, computer architecture
 
 ## Connect with Me
-- 📫 [LinkedIn]([[https://www.linkedin.com/in/sanaanvari])
+- 📫 [LinkedIn]((https://www.linkedin.com/in/sanaanvari))
 
 
